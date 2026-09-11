@@ -9,23 +9,22 @@ Each folder is one product, containing its child theme (source + ready-to-upload
 ```
 akurai/
   akurai-child/        child theme source
-  akurai-child.zip      upload via Appearance > Themes > Add New > Upload Theme
-  demo-import/           akurai.xml, akurai.dat, akurai.wie, akurai.png
+  akurai-child.zip     child theme zip
+  demo-import/         demo import files
 
 fxt/
-  fxt-child/
-  fxt-child.zip
-  demo-import/           fxt.xml, fxt.dat, fxt.wie, fxt.png
+  fxt-child/           child theme source
+  fxt-child.zip        child theme zip
+  demo-import/         demo import files
 
 sikika/
-  sikika-child/
-  sikika-child.zip
-  (no demo import data)
+  sikika-child/        child theme source
+  sikika-child.zip     child theme zip
 
 spinoko/
-  spinoko-child/
-  spinoko-child.zip
-  demo-import/           content.json
+  spinoko-child/       child theme source
+  spinoko-child.zip    chile theme zip
+  demo-import/         demo import file
 ```
 
 ## Installing a child theme
@@ -37,8 +36,6 @@ Upload the product's `.zip` via **Appearance > Themes > Add New > Upload Theme**
 Use the parent theme's recommended demo importer (e.g. One Click Demo Import) with the files in the product's `demo-import/` folder.
 
 ## Direct download links
-
-Repo: https://github.com/dinomatic/downloads
 
 ### Akurai
 
