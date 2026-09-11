@@ -1,0 +1,32 @@
+a:4:{s:8:"template";s:6:"akurai";s:4:"mods";a:30:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:6:"menu-1";i:12;s:6:"menu-2";i:11;}s:18:"custom_css_post_id";i:909;s:29:"title_tagline_display_tagline";b:1;s:21:"aic_fonts_custom_font";s:7:"Manrope";s:32:"aic_posts_sidebar_on_single_post";s:1:"0";s:16:"aic_header_color";s:7:"#22282c";s:19:"aic_header_bg_color";s:7:"#f1f5f8";s:20:"aic_header_nav_color";s:7:"#22282c";s:25:"aic_header_header_padding";s:2:"16";s:24:"aic_header_sticky_header";b:1;s:29:"aic_header_enable_search_form";b:1;s:29:"aic_header_gradient_site_name";b:1;s:22:"aic_section_box_shadow";s:5:"small";s:25:"aic_footer_copyright_text";s:119:"The best sports bettng theme, built by <a href="https://dinomatic.com" target="_blank" rel="noopener">DinoMatic</a> ✌";s:16:"aic_links_target";s:6:"_blank";s:22:"aic_buttons_box_shadow";s:5:"small";s:31:"aic_buttons_animation_shortcode";s:1:"3";s:23:"aic_breadcrumbs_enabled";b:1;s:29:"aic_posts_hero_on_single_post";s:1:"1";s:24:"aic_header_header_layout";s:8:"one-line";s:15:"aic_footer_menu";b:1;s:16:"aic_footer_logos";b:1;s:15:"aic_links_color";s:7:"#4dc0b5";s:35:"aic_reviews_enable_review_thumbnail";b:0;s:48:"aic_shortcodes_cta_link_on_review_blocks_enabled";b:1;s:37:"aic_posts_author_block_on_single_post";s:1:"1";s:50:"aic_posts_author_block_on_single_post_square_image";s:1:"1";s:50:"aic_posts_author_block_on_single_post_social_icons";s:1:"1";s:41:"aic_reviews_author_block_on_single_review";s:1:"1";}s:7:"options";a:2:{s:9:"site_icon";s:3:"678";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:687:"/* single column review hero */
+@media (min-width: 576px) {
+	.postid-23 .review-hero {
+		flex-direction: column;
+	}
+	.postid-23 .review-hero > div:first-of-type {
+		margin-bottom: 2rem;
+	}	
+}
+
+/* site title gradient */
+.site-title a {
+	font-size: 2rem;
+	font-weight: 700;
+	line-height: 1;
+	background-image: linear-gradient(64deg, var(--color-akurai-font-main), var(--color-akurai-primary));
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+/* bonuses menu item label */
+a[href="#bonuses"]:after {
+  content: 'NEW';
+  position: relative;
+	top: -2px;
+	margin-left: 3px;
+	padding: 2px 3px;
+  font-size: 11px;
+	color: #fff;
+  background: red;
+	border-radius: 3px;
+}";}

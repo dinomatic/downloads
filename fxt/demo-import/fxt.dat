@@ -1,0 +1,30 @@
+a:4:{s:8:"template";s:3:"fxt";s:4:"mods";a:4:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:10:"header-nav";i:7;s:10:"footer-nav";i:6;}s:18:"custom_css_post_id";i:1286;s:11:"custom_logo";i:1930;}s:7:"options";a:2:{s:9:"site_icon";s:4:"1931";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:399:".exness .broker-header-section {
+	background-color: #fff7c1;
+	
+	.bg-slate-100 {
+		background-color: #fff;
+	}
+}
+
+.fp-markets .broker-header-section {
+	background-color: #111;
+	color: #fafafa;
+	
+	.bg-tone-100 {
+		color: #333;
+	}
+	
+	.fxt-demo-btn {
+		--demo-btn-fg-color: #fafafa;
+	}
+}
+
+
+.fxtm .broker-header-section {
+	background-color: #fafafa;
+}
+
+
+.entry-content > h2:first-child {
+	margin-top: 0;
+}";}
